@@ -1,4 +1,4 @@
-# Arduino-Don-t-shake-Game
+# Arduino-Dont-shake-Game
 ## About - 説明
 The game is over if the actual machine is shaken excessively, tilted too far, or the number reaches zero.  
 実機を過度に揺らしたり、大きく傾ける、カウントダウンが０になった場合にゲームオーバーです。
